@@ -1,9 +1,9 @@
 # shortint
 <h1 align='center'> 
  Hello World! <img src="https://raw.githubusercontent.com/10adnan75/10adnan75/master/assets/hi.gif" width="33px">
- I'm Mangesh Chavan</a>
+ I'm Mangesh Chavan🌱</a>
 </h1>
-<h3 align="center">A Upcoming Fullstack developer from India</h3>
+
 
 <p align='center'>
  <a href="https://www.linkedin.com/in/mangesh-chavan-b8a77024b/" target="_blank">
