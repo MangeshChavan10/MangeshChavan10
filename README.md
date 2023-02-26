@@ -6,8 +6,7 @@
 <img align = "right" alt="coding" width ="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 
 <h3 align="left">Connect with me:"mangeshchavan037@gmail.com</h3>
-<p align="left">
-</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MangeshChavan10&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MangeshChavan10&theme=gotham&hide_border=false)<br/>
